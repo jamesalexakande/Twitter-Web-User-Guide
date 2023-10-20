@@ -1,25 +1,21 @@
 
 # Getting Started on Twitter: A Beginner's Guide
+
 ## At A Glance
 Twitter (now called X) is a social messaging platform used by millions of people all around the world to share their thoughts and engage in real-time conversations. This guide covers everything you need to know about getting started with this platform.
 
-
-[Signing Up](#signing-up)
-
-[Setting Up](#setting-up)
-
-[Navigating Twitter's Interface](#navigating-twitter's-interface)
-
-[Posting/Tweeting](#posting/tweeting)
-
-[Notifications](#notofications)
-
-[Conclusion](#conclusion)
-
-[FAQ](#faq)
+- [Signing Up](#signing-up)
+- [Setting Up](#setting-up)
+- [Navigating Twitter's Interface](#navigating-twitter's-interface)
+- [Following Other Users](#following-other-users)
+- [Posting/Tweeting](#posting/tweeting)
+- [Notifications](#notofications)
+- [Conclusion](#conclusion)
+- [FAQ](#faq)
 
 
 ## Signing Up 
+
 1. Open your web browser and go to [Twitter](twitter.com), where a sign-up interface will be displayed. Click on **Create Account**
    
 ![sign up page for Twitter/X](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/1ccf6181-b348-47ae-a2c8-e493b5677997)
@@ -47,6 +43,7 @@ Use the arrows to redirect the image in the right to face the same direction as 
 Now you can set up your profile. 
 
 ## Setting Up
+
 ### Changing Your Username
 On the web interface, click the **More** icon, located at the bottom of the dashboard at the left of the screen.
 ![More Icon](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/15baf783-3e47-489a-a111-4aee18d04958)
@@ -89,6 +86,7 @@ That’s it - the basics of your profile are all set up! You can follow other on
 
 
 ## Navigating Twitter’s Interface
+
 Twitter has an intuitive interface that is easy to navigate. 
 - The **Home** tab is what you see immediately when you log in. Here you can see posts (also called tweets) from people you follow, people in your region, or people with shared interests. 
 - The **Notifications** panel shows you interactions like likes, retweets, and mentions. It is accessed via the dashboard (left part of the screen), where it is represented as a bell-shaped icon.
@@ -97,11 +95,13 @@ Twitter has an intuitive interface that is easy to navigate.
 ![twitter interface](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/c37d4300-4116-4fb4-996d-f96c5af57c31)
 
 ## Following Other Users
+
 As a new user, Twitter suggests new users for you to follow in your profile, under the **Let’s get you set up** section. However, you can also search for new users in the **Explore** tab 
 ![explore tab](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/1d75e873-a373-4ebc-bd48-61b37798eace)
 
 
 ## Posting/Tweeting 
+
 ### Making A Post (or Tweet) 
 Posts on Twitter/X are also called tweets. To make a post, click on the textbox in the **Home** tab near your profile image. You can add images, GIFs, emojis, as well as schedule it to be sent at a particular time. 
 ![making a post](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/91e2f467-69d9-4f73-8ffe-b896c489c762)
@@ -124,6 +124,7 @@ Click **Repost** if you wish to instantly share the post with your followers wit
 Click **Quote** if you wish to add your own words, photos or videos. 
 
 ## Notifications
+
 The notifications bar displays reactions by other users to your posts, comments, or reposts. It is split into three sections:
 
 - **All**, which shows you notifications from the platform, as well as reactions from other users. 
@@ -136,9 +137,11 @@ The *Navigating Twitter's Interface* section shows you how to access the Notific
 
   
 ## Conclusion
+
 Well done! Now you’ve successfully set up your twitter account, and understood the basics of how Twitter/X works! You can create, explore, and interact with others, and connect with the rest of the Twitter community!
 
 ## FAQ
+
 - **I forgot my password. What should I do?** Click on Forgot Password on the pop-up that comes on the screen when you try to sign into Twitter/X.
 - **Can I use X on my mobile device?** Yes, X can be used on mobile devices. Click Download the X app on the sign up/sign in page. 
 
