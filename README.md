@@ -3,12 +3,19 @@
 ## At A Glance
 Twitter (now called X) is a social messaging platform used by millions of people all around the world to share their thoughts and engage in real-time conversations. This guide covers everything you need to know about getting started with this platform.
 
+
 [Signing Up](#signing-up)
+
 [Setting Up](#setting-up)
+
 [Navigating Twitter's Interface](#navigating-twitter's-interface)
+
 [Posting/Tweeting](#posting/tweeting)
+
 [Notifications](#notofications)
+
 [Conclusion](#conclusion)
+
 [FAQ](#faq)
 
 
