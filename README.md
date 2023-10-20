@@ -3,6 +3,9 @@
 ## At A Glance
 Twitter (now called X) is a social messaging platform used by millions of people all around the world to share their thoughts and engage in real-time conversations. This guide covers everything you need to know about getting started with this platform.
 
+ [Signing Up](user-content-signing-up)
+
+
 ## Signing Up 
 1. Open your web browser and go to [Twitter](twitter.com), where a sign-up interface will be displayed. Click on **Create Account**
    
