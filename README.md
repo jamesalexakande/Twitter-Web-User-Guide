@@ -3,6 +3,14 @@
 ## At A Glance
 Twitter (now called X) is a social messaging platform used by millions of people all around the world to share their thoughts and engage in real-time conversations. This guide covers everything you need to know about getting started with this platform.
 
+[Signing Up](#signing-up)
+[Setting Up](#setting-up)
+[Navigating Twitter's Interface](#navigating-twitter's-interface)
+[Posting/Tweeting](#posting/tweeting)
+[Notifications](#notofications)
+[Conclusion](#conclusion)
+[FAQ](#faq)
+
 
 ## Signing Up 
 1. Open your web browser and go to [Twitter](twitter.com), where a sign-up interface will be displayed. Click on **Create Account**
@@ -54,7 +62,7 @@ After this, Twitter tells you once again to take a security challenge to confirm
 ![username change tab](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/33f91c3e-39c0-44ab-9fdf-2a1fef879461)
 
 
-## Changing your profile picture and setting up your profile 
+### Changing your profile picture and setting up your profile 
 On the web interface, click on the Profile icon in the dashboard at the left side of the screen. Once your profile appears (as below), 
 ![profile image](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/40fa1be5-4906-4065-9743-70d44f5d01c2)
 
@@ -74,7 +82,6 @@ That’s it - the basics of your profile are all set up! You can follow other on
 
 
 ## Navigating Twitter’s Interface
-
 Twitter has an intuitive interface that is easy to navigate. 
 - The **Home** tab is what you see immediately when you log in. Here you can see posts (also called tweets) from people you follow, people in your region, or people with shared interests. 
 - The **Notifications** panel shows you interactions like likes, retweets, and mentions. It is accessed via the dashboard (left part of the screen), where it is represented as a bell-shaped icon.
