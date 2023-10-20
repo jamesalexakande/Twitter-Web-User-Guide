@@ -109,11 +109,12 @@ Click **Repost** if you wish to instantly share the post with your followers wit
 Click **Quote** if you wish to add your own words, photos or videos. 
 
 ## Notifications
-The notifications bar displays reactions by other users to your posts, comments, or reposts by others. It is split into three sections:
+The notifications bar displays reactions by other users to your posts, comments, or reposts. It is split into three sections:
 
 - **All**, which shows you notifications from the platform, as well as reactions from other users. 
 - **Verified**, which shows you notification from verified users.  
 - **Mentions**, which notifies you when other users mention your username on their posts.
+
   ![notification](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/4aef0a0d-1c53-4871-92bb-75d31ae5bcd2)
   
 The *Navigating Twitter's Interface* section shows you how to access the Notifications Tab
