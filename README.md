@@ -9,7 +9,7 @@ Twitter (now called X) is a social messaging platform used by millions of people
 - [Navigating Twitter's Interface](#navigating-twitter's-interface)
 - [Following Other Users](#following-other-users)
 - [Posting/Tweeting](#posting/tweeting)
-- [Notifications](#notofications)
+- [Notifications](#notifications)
 - [Conclusion](#conclusion)
 - [FAQ](#faq)
 
@@ -88,11 +88,14 @@ That’s it - the basics of your profile are all set up! You can follow other on
 ## Navigating Twitter’s Interface
 
 Twitter has an intuitive interface that is easy to navigate. 
+
 - The **Home** tab is what you see immediately when you log in. Here you can see posts (also called tweets) from people you follow, people in your region, or people with shared interests. 
 - The **Notifications** panel shows you interactions like likes, retweets, and mentions. It is accessed via the dashboard (left part of the screen), where it is represented as a bell-shaped icon.
 - You can send and recieve messages from other users through **Messages** tab (also accessible via the Dashboard)
 - You can discover local/global trends, and check out topics of interest in the **Explore** tab. It can also be accessed via the dashboard, or the search tool in the top right corner of the Twitter home page. 
+
 ![twitter interface](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/c37d4300-4116-4fb4-996d-f96c5af57c31)
+
 
 ## Following Other Users
 
@@ -103,11 +106,13 @@ As a new user, Twitter suggests new users for you to follow in your profile, und
 ## Posting/Tweeting 
 
 ### Making A Post (or Tweet) 
+
 Posts on Twitter/X are also called tweets. To make a post, click on the textbox in the **Home** tab near your profile image. You can add images, GIFs, emojis, as well as schedule it to be sent at a particular time. 
 ![making a post](https://github.com/jamesalexakande/Twitter-Web-User-Guide/assets/145064527/91e2f467-69d9-4f73-8ffe-b896c489c762)
 
 
 ### Engaging With Other Tweets/Posts 
+
 You can respond and react to posts by other users in different ways. 
 
 - You can make a direct comment under another user’s posts by typing in the text box that appears when you click on the tweet.
@@ -117,11 +122,13 @@ You can respond and react to posts by other users in different ways.
 
  
 ### Reposts/Retweets
+
 Retweets allow you to share another user’s post to your followers for broader reach. 
 You can retweet a post by clicking on the two squared arrows underneath the tweet. Once you do this, a list of options will pop up. 
 
 Click **Repost** if you wish to instantly share the post with your followers without leaving your own comments or thoughts.
 Click **Quote** if you wish to add your own words, photos or videos. 
+
 
 ## Notifications
 
@@ -139,6 +146,7 @@ The *Navigating Twitter's Interface* section shows you how to access the Notific
 ## Conclusion
 
 Well done! Now you’ve successfully set up your twitter account, and understood the basics of how Twitter/X works! You can create, explore, and interact with others, and connect with the rest of the Twitter community!
+
 
 ## FAQ
 
