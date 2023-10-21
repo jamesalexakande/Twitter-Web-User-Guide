@@ -1,4 +1,4 @@
-
+ 
 # Getting Started on Twitter: A Beginner's Guide
 
 ## At A Glance
@@ -6,9 +6,9 @@ Twitter (now called X) is a social messaging platform used by millions of people
 
 - [Signing Up](#signing-up)
 - [Setting Up](#setting-up)
-- [Navigating Twitter's Interface](#navigating-twitter's-interface)
+- [Navigating Twitter's Interface](#navigating-twitters-interface)
 - [Following Other Users](#following-other-users)
-- [Posting/Tweeting](#posting/tweeting)
+- [Posting/Tweeting](#postingtweeting)
 - [Notifications](#notifications)
 - [Conclusion](#conclusion)
 - [FAQ](#faq)
